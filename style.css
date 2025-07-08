@@ -1,6 +1,27 @@
 body{
-  background-color: #f0f0f0;
-  color: #333333;
-  font-family: Arial, sans-serif;
-  padding: 20px
+  background-color: #7030A0;
+  color: #FFFFFF;
+  font-family: Aptos, "Times New Roman", sans-serif;
+  padding: 20px;
+  margin: 25px;
+  max-width: 500px;
+}
+p{
+  font-family: Aptos, "Times New Roman", sans-serif;
+}
+h1{
+  font-size: 34px;
+}
+h2{
+  font-size: 30px;
+}
+h3{
+  font-size: 28px;
+}
+h1, h2, h3 {
+  font-family: "Aptos Display", Arial, Helvetica, sans-serif;
+  font-variant: small-caps;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #FFFFFF;
 }
